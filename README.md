@@ -6,3 +6,6 @@ you start the application by clicking start quiz at the opening screen, and then
 At the end you will see your score that you can remember by adding a username. The functionality isn't 
 great for now since I've been sick so it was difficult to work on this but I promise future projects will
 be much better! C:
+![ss3](https://github.com/rizurabi/basic-code-quiz/assets/139391546/adea635f-079b-4336-8e36-ef7cd820b6ce)
+![ss2](https://github.com/rizurabi/basic-code-quiz/assets/139391546/a98ec964-84a7-41f1-9ee7-5b9c490720f5)
+![ss1](https://github.com/rizurabi/basic-code-quiz/assets/139391546/4cb2fa98-c197-4941-bd33-a0c56a1eac8d)
